@@ -1,0 +1,648 @@
+{
+  "exam": "jee_mains",
+  "subject": "physics",
+  "questions": [
+
+    {
+      "topic": "Alternating Current",
+      "question": "In an AC circuit, the power factor is given by:",
+      "options": ["cos φ", "sin φ", "tan φ", "cot φ"],
+      "correct_option": "cos φ"
+    },
+    {
+      "topic": "Alternating Current",
+      "question": "The RMS value of a sinusoidal current of 10 A amplitude is:",
+      "options": ["5 A", "7.07 A", "10 A", "14.14 A"],
+      "correct_option": "7.07 A"
+    },
+    {
+      "topic": "Alternating Current",
+      "question": "The impedance of a resistor and capacitor in series is given by:",
+      "options": ["R + 1/jωC", "R + jωC", "√(R² + (1/ωC)²)", "R - jωC"],
+      "correct_option": "√(R² + (1/ωC)²)"
+    },
+
+    {
+      "topic": "Laws of Motion",
+      "question": "According to Newton's second law, force is proportional to:",
+      "options": ["mass", "acceleration", "velocity", "displacement"],
+      "correct_option": "acceleration"
+    },
+    {
+      "topic": "Laws of Motion",
+      "question": "The unit of force is:",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "correct_option": "Newton"
+    },
+    {
+      "topic": "Laws of Motion",
+      "question": "A body of mass 2 kg accelerates at 3 m/s². The force acting on it is:",
+      "options": ["6 N", "9 N", "3 N", "5 N"],
+      "correct_option": "6 N"
+    },
+    {
+      "topic": "Laws of Motion",
+      "question": "Which of the following is an example of Newton's third law?",
+      "options": [
+        "A ball rolling on a surface",
+        "A rocket launching",
+        "A car accelerating",
+        "A pendulum swinging"
+      ],
+      "correct_option": "A rocket launching"
+    },
+    {
+      "question": "A resistance of 40 Ω is connected to a source of alternating current rated 220 V, 50 Hz. Find the time taken by the current to change from its maximum value to rms value:",
+      "options": ["2.5 ms", "1.25 ms", "2.5 s", "0.25 s"],
+      "correct_option": "2.5 ms",
+      "topic": "Alternating Current"
+    },
+
+    {
+      "question": "If wattless current flows in the AC circuit, then the circuit is:",
+      "options": ["Purely Resistive circuit", "Purely Inductive circuit", "LCR series circuit", "RC series circuit only"],
+      "correct_option": "Purely Inductive circuit",
+      "topic": "Alternating Current"
+    },
+
+    {
+      "question": "A sinusoidal voltage V(t) = 210 sin 3000t volt is applied to a series LCR circuit in which L = 10 mH, C = 25 μF and R = 100Ω. The phase difference (Φ) between the applied voltage and resultant current will be:",
+      "options": ["tan⁻¹(0.17)", "tan⁻¹(9.46)", "tan⁻¹(0.30)", "tan⁻¹(13.33)"],
+      "correct_option": "tan⁻¹(0.17)",
+      "topic": "Alternating Current"
+    },
+
+    {
+      "question": "The current flowing through an AC circuit is given by I = 5 sin(120πt) A. How long will the current take to reach the peak value starting from zero?",
+      "options": ["1/60 s", "60 s", "1/120 s", "1/240 s"],
+      "correct_option": "1/240 s",
+      "topic": "Alternating Current"
+    },
+
+    {
+      "question": "A particle starts from rest and moves with constant acceleration. Which of the following graphs represents the velocity-time relation correctly?",
+      "options": ["A straight line passing through the origin", "A parabola opening upwards", "A horizontal line", "A curve increasing exponentially"],
+      "correct_option": "A straight line passing through the origin",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "An object is thrown vertically upward with a speed of 20 m/s. How long does it take to reach the highest point?",
+      "options": ["1 s", "2 s", "3 s", "4 s"],
+      "correct_option": "2 s",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "A car accelerates uniformly from 10 m/s to 20 m/s in 5 seconds. What is the acceleration?",
+      "options": ["2 m/s²", "3 m/s²", "4 m/s²", "5 m/s²"],
+      "correct_option": "2 m/s²",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "If an object covers equal distances in equal intervals of time, its motion is said to be:",
+      "options": ["Uniform", "Accelerated", "Retarded", "Non-uniform"],
+      "correct_option": "Uniform",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "The area under a velocity-time graph represents:",
+      "options": ["Acceleration", "Displacement", "Speed", "Jerk"],
+      "correct_option": "Displacement",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "An object moving with a constant acceleration covers 100 m in 5 seconds and 150 m in the next 5 seconds. What is the acceleration?",
+      "options": ["2 m/s²", "3 m/s²", "4 m/s²", "5 m/s²"],
+      "correct_option": "2 m/s²",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "A ball is dropped from a height of 45 m. How long does it take to reach the ground? (Take g = 10 m/s²)",
+      "options": ["2 s", "3 s", "4 s", "5 s"],
+      "correct_option": "3 s",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "Which of the following quantities remains constant in uniform circular motion?",
+      "options": ["Speed", "Velocity", "Acceleration", "Displacement"],
+      "correct_option": "Speed",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "An object moves 20 m north, then 15 m east. What is the total displacement?",
+      "options": ["35 m", "25 m", "20 m", "15 m"],
+      "correct_option": "25 m",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "The slope of a position-time graph gives:",
+      "options": ["Velocity", "Acceleration", "Displacement", "Jerk"],
+      "correct_option": "Velocity",
+      "topic": "Motion in One Dimension"
+    },
+    {
+      "question": "A block of mass 10 kg starts sliding on a surface with an initial velocity of  $9.8~ms^{-1}$  The coefficient of friction between the surface and bock is 0.5. The distance covered by the block before coming to rest is: [use  $\\underline{g}=9.8~ms^{-2}$ ]",
+      "options": [
+        "4.9 m",
+        "9.8 m",
+        "12.5 m",
+        "19.6 m"
+      ],
+      "correct_option": "4.9 m",
+      "topic": "Work Power Energy"
+    },
+    {
+      "question": "A boy ties a stone of mass 100 g to the end of a 2 m long string and whirls it around in a horizontal plane. The string can withstand the maximum tension of 80 N. If the maximum speed with which the stone can revolve is . The value of  $\\frac{K}{\\pi}rev./min$  Kis: (Assume the string is massless and unstretchable)",
+      "options": [
+        "400",
+        "300",
+        "600",
+        "800"
+      ],
+      "correct_option": "600",
+      "topic": "Work Power Energy"
+    },
+    {
+      "question": "A particle experiences a variable force $\\vec{F}=(4x\\hat{i}+3y^{2}\\hat{j})$ in a horizontal x-y plane. Assume distance in meters and force is newton. If the particle moves from point $(1,2)$ to point $(2,3)$ in the x-y plane, the Kinetic Energy changes by",
+      "options": [
+        "50.0 J",
+        "12.5 J",
+        "25.0 J",
+        "0 J"
+      ],
+      "correct_option": "25.0 J",
+      "topic": "Work Power Energy"
+    },
+   {
+      "question": "The ratio of specific heats $((\\frac{C_{P}}{C_{V}})$ in terms of degree of freedom (f) is given by:",
+      "options": [
+        "$(1+\\frac{f}{3})$",
+        "$(1+\\frac{2}{f})$",
+        "$(1+\\frac{f}{2})$",
+        "$(1+\\frac{1}{f})$"
+      ],
+      "correct_option": "$(1+\\frac{2}{f})$",
+      "topic": "Work Power Energy"
+    },
+    {
+      "question": "Arrange the four graphs in descending order of total work done; where $W_{1}$ $W_{2},$ $W_{3}$ and $W_{4}$ are the work done corresponding to figure a, b, c and d respectively,",
+      "options": [
+        "$W_{3}>W_{2}>W_{1}>W_{4}$",
+        "$W_{3}>W_{2}>W_{4}>W_{1}$",
+        "$W_{2}>W_{3}>W_{4}>W_{1}$",
+        "$W_{2}>W_{3}>W_{1}>W_{4}$"
+      ],
+      "correct_option": "$W_{3}>W_{2}>W_{1}>W_{4}$",
+       "topic": "Work Power Energy"
+    },
+   {
+      "question": "A stone tide to a string of length L is whirled in an vertical circle with the other end of the string at the centre. At a certain instant of time, the stone is at its lowest position and has a speed u. The magnitude of change in its velocity, as it reaches a position where the string is horizontal, is $\\sqrt{x(u^{2}-gL)}$ . The value of x is",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "5"
+      ],
+      "correct_option": "2",
+       "topic": "Work Power Energy"
+    },
+    {
+      "question": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration (a) is varying with time t as $a=k^{2}rt^{2}$ where k is a constant. The power delivered to the particle by the force acting on it is given as",
+      "options": [
+        "zero",
+        "$mk^{2}r^{2}t^{2}$",
+        "$mk^{2}r^{2}t$",
+        "$mk^{2}rt$"
+      ],
+      "correct_option": "$mk^{2}r^{2}t$",
+       "topic": "Work Power Energy"
+    },
+    {
+      "question": "Sodium light of wavelengths 650 nm and 655 nm is used to study diffraction at a single slit of aperture 0.5 mm. [cite: 1, 2] The distance between the slit and the screen is 2.0 m. [cite: 2, 3] The separation between the positions of the first maxima of diffraction pattern obtained in the two cases is  $\\times10^{-5}$ m.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_option": "3",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "The two light beams having intensities I and 9I interfere to produce a fringe pattern on a screen. [cite: 4, 5] The phase difference between the beams is $\\frac{\\pi}{2}$ at point P and $\\pi$ at point Q. Then the difference between the resultant intensities at P and Q will be:",
+      "options": [
+        "2 I",
+        "6 I",
+        "5 I",
+        "7 I"
+      ],
+      "correct_option": "6 I",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "The interference pattern is obtained with two coherent light sources of intensity ratio 4:1. [cite: 5, 6] And the ratio $\\frac{I_{max}+I_{min}}{I_{max}-I_{min}}$ is $\\frac{5}{x}$ . Then, the value of x will be equal to :",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correct_option": "4",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "In free space, an electromagnetic wave of 3 GHz frequency strikes over the edge of an object of size $\\frac{\\lambda}{100}$ where $\\lambda$ is the wavelength of the wave in free space. [cite: 7, 8] The phenomenon, which happens there will be:",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Scattering"
+      ],
+      "correct_option": "Scattering",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "For a specific wavelength 670 nm of light coming from a galaxy moving with velocity v, the observed wavelength is 670.7 nm. [cite: 8, 9] The value of v is:",
+      "options": [
+        "$3\\times10^{8}ms^{-1}$",
+        "$3\\times10^{10}ms^{-1}$",
+        "$3.13\\times10^{5}ms^{-1}$",
+        "$4.48\\times10^{5}ms^{-1}$"
+      ],
+      "correct_option": "$3.13\\times10^{5}ms^{-1}$",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "In Young's double slit experiment the two slits are 0.6 mm distance apart. [cite: 9, 10] Interference pattern is observed on a screen at a distance 80 cm from the slits. [cite: 10, 11] The first dark fringe is observed on the screen directly opposite to one of the slits. [cite: 11, 12] The wavelength of light will be __________ nm.",
+      "options": [],
+      "correct_option": "450",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "In young's double slit experiment performed using the a monochromatic light of wavelength λ, when a glass plate $(\\mu=1.5)$ of thickness χλ is introduced in the path of the one of the interfering beams, the intensity at the position where the central maximum occurred previously remains unchanged. [cite: 14, 15] The value of x will be:",
+      "options": [
+        "3",
+        "2",
+        "1.5",
+        "0.5"
+      ],
+      "correct_option": "2",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "In a Young's double slit experiment, an angular width of the fringe is $0.35^{\\circ}$ on a screen placed at 2 m away for particular wavelength of 450 nm. [cite: 15, 16] The angular width of the fringe, when whole system is immersed in a medium of refractive index $7/5$ is $\\frac{1}{\\alpha}$ . [cite: 16, 17] The value of a is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_option": "4",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "Using Young's double slit experiment, a monochromatic light of wavelength 5000 Å produces fringes of fringe width 0.5 mm. [cite: 18, 19] If another monochromatic light of wavelength 6000Å is used and the separation between the slits is doubled, then the new fringe width will be :",
+      "options": [
+        "0.5 mm",
+        "1.0 mm",
+        "0.6 mm",
+        "0.3 mm"
+      ],
+      "correct_option": "0.3 mm",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "In a double slit experiment with monochromatic light, fringes are obtained on a screen placed at some distance from the plane of slits. [cite: 19, 20] If the screen is moved by $5\\times10^{-2}$ m towards the slits, the change in fringe width is $3\\times10^{-3}$ cm. [cite: 20, 21] If the distance between the slits is 1 mm, then the wavelength of the light will be __________ nm.",
+      "options": [],
+      "correct_option": "600",
+      "topic": "Wave Optics"
+    },
+    {
+      "question": "Nucleus A is having mass number 220 and its binding energy per nucleon is 5.6 MeV. It splits in two fragments 'B' and 'C' of mass numbers 105 and 115. The binding energy of nucleons in 'B' and 'C' is 6.4 MeV per nucleon. The energy released per fission will be :",
+      "options": ["0.8 MeV", "275 MeV", "220 MeV", "176 MeV"],
+      "correct_option": "176 MeV",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "Nucleus A is having mass number 220 and its binding energy per nucleon is 5.6 MeV. It splits in two fragments 'B' and 'C' of mass numbers 105 and 115. The binding energy of nucleons in 'B' and 'C' is 6.4 MeV per nucleon. The energy released per fission will be :",
+      "options": ["0.8 MeV", "275 MeV", "220 MeV", "176 MeV"],
+      "correct_option": "176 MeV",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "A sample contains $10^{-2}$ kg each of two substances A and B with half lives 4 s and 8 s respectively. The ratio of then atomic weights is 1: 2. The ratio $\\frac{x}{100}$ of the amounts of A and B after 16 s is the value of x is",
+      "options": [],
+      "correct_option": "25",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "How many alpha and beta particles are emitted when Uranium ${}_{92}U^{238}$ decays to lead ${}_{82}Pb^{206}$?",
+      "options": [
+        "3 alpha particles and 5 beta particles",
+        "6 alpha particles and 4 beta particles",
+        "4 alpha particles and 5 beta particles",
+        "8 alpha particles and 6 beta particles"
+      ],
+      "correct_option": "8 alpha particles and 6 beta particles",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "A radioactive nucleus can decay by two different processes. Half-life for the first process is 3.0 hours while it is 4.5 hours for the second process. The effective half-life of the nucleus will be",
+      "options": ["3.75 hours", "0.56 hours", "0.26 hours", "1.80 hours"],
+      "correct_option": "1.80 hours",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "The Q-value of a nuclear reaction and kinetic energy of the projectile particle, $K_{p}$ are related as:",
+      "options": [
+        "$Q=K_{p}$",
+        "$(K_{p}+Q)<O$",
+        "$Q<K_{p}$",
+        "$(K_{p}+Q)>0$"
+      ],
+      "correct_option": "$(K_{p}+Q)>0$",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "Following statements related to radioactivity are given below: (A) Radioactivity is a random and spontaneous process and is dependent on physical and chemical conditions. (B) The number of un-decayed nuclei in the radioactive sample decays exponentially with time. (C) Slope of the graph of log(no. of undecayed nuclei) Vs. time represents the reciprocal of mean life time (τ). (D) Product of decay constant (λ) and half-life time $(T_{1/2})$ is not constant.  Choose the most appropriate answer from the options given below:",
+      "options": [
+        "(A) and (B) only",
+        "(B) and (D) only",
+        "(B) and (C) only",
+        "(C) and (D) only"
+      ],
+      "correct_option": "(B) and (C) only",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "The activity of a radioactive material is $2.56\times10^{-3}$ Ci. If the half life of the material is 5 days, after how many days the activity will become $2\times10^{-5}$ Ci?",
+      "options": ["30 days", "35 days", "40 days", "25 days"],
+      "correct_option": "35 days",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "In the following nuclear reaction, $D\\longrightarrow^{\\alpha}\\rightarrow D_{1}\\longrightarrow\\beta\\rightarrow D_{2}\\longrightarrow\\alpha\\rightarrow D_{3}\\rightarrow\\beta\\rightarrow D_{4}$ Mass number of D is 182 and atomic number is 74. Mass number of $D_{4}$ and atomic number of $D_{4}$ respectively will be",
+      "options": [
+        "174 and 71",
+        "174 and 69",
+        "172 and 69",
+        "172 and 71"
+      ],
+      "correct_option": "174 and 71",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "The half life of a radioactive substance is 5 years. After x years a given sample of the radioactive substance gets reduced to 6.25% of its initial value. The value of x is __________",
+      "options": [],
+      "correct_option": "20",
+      "topic": "Nuclear Physics"
+    },
+    {
+      "question": "The angle  rotated by the fly wheel in the next second, will be",
+      "options": ["7.5 rad", "15 rad", "20 rad", "30 rad"],
+      "correct_option": "15 rad",
+      "topic": "Rotational Mechanics"
+    },
+    {
+      "question": "If force $\\vec{F}=3\\hat{i}+4\\hat{j}-2\\hat{k}$ acts on a particle having position vector $2\\hat{i}+\\hat{j}+2\\hat{k}$ then, the torque about the origin will be :-",
+      "options": [
+        "$3\\hat{i}+4\\hat{j}-2\\hat{k}$",
+        "$-10\\hat{i}+10\\hat{j}+5\\hat{k}$",
+        "$10\\hat{i}+5\\hat{j}-10\\hat{k}$",
+        "$10\\hat{i}+\\hat{j}-5\\hat{k}$"
+      ],
+      "correct_option": "$-10\\hat{i}+10\\hat{j}+5\\hat{k}$",
+      "topic": "Rotational Mechanics"
+    },
+    {
+      "question": "Match List-I with List-II",
+      "options": [
+        "A-II, B-II, C-IV, D-III",
+        "A-I, B-II, C-IV, D-III",
+        "A-II, B-I, C-III, D-IV",
+        "A-I, B-II, C-III, D-IV"
+      ],
+      "correct_option": "A-I, B-II, C-IV, D-III",
+      "topic": "Rotational Mechanics"
+    },
+    {
+      "question": "The ratio of rotational kinetic energy of the ball to its total kinetic energy is :-",
+      "options": [
+        "$\\frac{2}{5}$",
+        "$\\frac{2}{7}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{7}{10}$"
+      ],
+      "correct_option": "$\\frac{2}{7}$",
+      "topic": "Rotational Mechanics"
+    },
+    {
+     "question": "The ring will then rotate with an angular velocity $(in\\, rads^{-1})$",
+     "options": [
+      "$\\frac{M}{(M+m)}$",
+      "$\\frac{(M+2m)}{2M}$",
+      "$\\frac{2M}{(M+2m)}$",
+      "$\\frac{2(M+2m)}{M}$"
+     ],
+     "correct_option": "$\\frac{2M}{(M+2m)}$",
+     "topic": "Rotational Mechanics"
+    },
+    {
+   "question": "A light wave travelling linearly in a medium \nof dielectric constant 4, incident on the \nhorizontal interface separating medium with air. \nThe angle of incidence for which the total \nintensity of incident wave will be reflected back \ninto the same medium will be (Given: relative \npermeability of medium $\\mu_{r}=1$)",
+   "options": ["10°", "20°", "30°", "60°"],
+   "correct_option": "60°",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "The following table: \n'The difference of speed of light in the two \nmedia A and B $(v_{A}-v_{B})$ is $2.6\times10^{7}m/s$. If the \nrefractive index of medium B is 1.47, then the \nratio of refractive index of medium B to \nmedium A is: (Given: speed of \nlight in vacuum $c=3\times10^{8}ms^{-1})$",
+   "options": ["1.303", "1.318", "1.13", "0.12"],
+   "correct_option": "1.13",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "A light whose electric field vectors are completely \nremoved by using a good Polaroid, allowed to \nincident on the surface of the prism at Brewster's \nangle. Choose the most suitable option for the \nphenomenon related to the prism.",
+   "options": ["Reflected and refracted rays will be \nperpendicular to each other", "Wave will propagate along the surface of prism", "No refraction, and there will be total reflection \nof light.", "No reflection and there will be total \ntransmission of light."],
+   "correct_option": "No reflection and there will be total \ntransmission of light.",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "Consider a light ray travelling in air is incident into \na medium of refractive index $\\sqrt{2n}$. The incident \nangle is twice that of refracting angle. Then, the \nangle of incidence will be :",
+   "options": ["$sin^{-1}(\\sqrt{n})$", "$cos^{-1}(\\sqrt{\\frac{n}{2}})$", "$sin^{-1}(\\sqrt{2n})$", "$2~cos^{-1}(\\sqrt{\\frac{n}{2}})$"],
+   "correct_option": "$sin^{-1}(\\sqrt{n})$",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "A convex lens has power P. It is cut into two \nhalves along its principal axis. \nFurther one piece \n(out of the two halves) is cut into two halves \nperpendicular to the principal axis (as shown in \nfigure). Choose the incorrect option for the \nreported pieces.",
+   "options": ["Power of $L_{1}=\\frac{P}{2}$", "Power of $L_{2}=\\frac{P}{2}$", "Power of $L_{3}=\\frac{P}{2}$", "Power of $L_{1}=P$"],
+   "correct_option": "Power of $L_{1}=P",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "The refracting angle of a prism is A and refractive \nindex of the material of the prism is cot (A/2). \nThen the angle of minimum deviation will be -",
+   "options": ["$180-2A$", "90-A", "180+2A", "$180-3A$"],
+   "correct_option": "$180-2A$",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "The resolving power of this telescope. \nIf a light of \nwavelength 2440 Å is used to see the object will be",
+   "options": ["$8.1\\times10^{6}$", "$10.0\\times10^{7}$", "$8.2\\times10^{5}$", "$1.0\\times10^{-8}$"],
+   "correct_option": "$8.2\\times10^{5}$",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "The speed of light in media 'A' and 'B' are 2.0 x \n$10^{10}cm/s$ and $1.5\\times10^{10}chm/s$ respectively. A ray \nof light enters from the medium B to A at an \nincident angle '0'. If the ray suffers total internal \nreflection, then",
+   "options": ["$\\theta=sin^{-1}(\\frac{3}{4})$", "$\\theta>sin^{-1}(\\frac{2}{3})$", "$\\theta<sin^{-1}(\\frac{3}{4})$", "$\\theta>sin^{-1}(\\frac{3}{4})$"],
+   "correct_option": "$\\theta>sin^{-1}(\\frac{3}{4})$",
+   "topic": "Ray Optics"
+  },
+  {
+   "question": "Two massless springs with spring constants 2 k \nand 2 k, carry 50 g and 100 g masses at their free \nends. These two masses oscillate vertically such that \ntheir maximum velocities are equal. Then, the \nratio of their respective amplitudes will be :",
+   "options": [
+    "1:2",
+    "3:2",
+    "3:1",
+    "2:3"
+   ],
+   "correct_option": "3:2",
+   "topic": "Oscillations"
+  },
+  {
+   "question": "The efficiency of a Carnot's engine, working \nbetween steam point and ice point, will be :",
+   "options": [
+    "26.81%",
+    "37.81%",
+    "47.81%",
+    "57.81%"
+   ],
+   "correct_option": "47.81%",
+   "topic": "Oscillations"
+  },
+  {
+   "question": "The displacement of simple harmonic oscillator \nafter 3 seconds starting from its mean position is \nequal to half of its amplitude. The time period of \nharmonic motion is :",
+   "options": [
+    "6 s",
+    "8 s",
+    "12 s",
+    "36 s"
+   ],
+   "correct_option": "36 s",
+   "topic": "Oscillations"
+  },
+  {
+   "question": "The equation of a particle executing simple \nharmonic motion is given by  $x=sin \\pi(t+\\frac{1}{3})m$. At t = 1s, the speed of particle will be : (Given : $\\pi=3.14)$",
+   "options": [
+    "0 $cm s^{-1}$",
+    "157 $cm s^{-1}$",
+    "272 $cm s^{-1}$",
+    "314 $cm s^{-1}$"
+   ],
+   "correct_option": "157 $cm s^{-1}$",
+   "topic": "Oscillations"
+  },
+  {
+   "question": "The motion of a simple pendulum executing S.H.M. \nis represented by following equation. \nY = A sin $(\\pi t+\\phi)$ where time is measured in second. The length of pendulum is :",
+   "options": [
+    "97.23 cm",
+    "25.3 cm",
+    "99.4 cm",
+    "406.1 cm"
+   ],
+   "correct_option": "99.4 cm",
+   "topic": "Oscillations"
+  },
+  {
+   "question": "The relation between root mean square speed \n$(v_{rms})$ and most probable speed $(V_{p})$ for the \nmolar mass M of oxygen gas molecule at the \ntemperature of 300 K will be :-",
+   "options": [
+    "$v_{ms}=\\sqrt{\\frac{2}{3}}v_{p}$",
+    "$v_{ms}=\\sqrt{\\frac{3}{2}}v_{p}$",
+    "$v_{rmns}=v_{p}$",
+    "$v_{rms}=\\sqrt{\\frac{1}{3}}v_{p}$"
+   ],
+   "correct_option": "$v_{ms}=\\sqrt{\\frac{3}{2}}v_{p}$",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "The ratio of specific heats $(\\frac{C_{P}}{C_{V}})$ in terms of \ndegree of freedom (f) is given by:",
+   "options": [
+    "$(1+\\frac{f}{3})$",
+    "$(1+\\frac{2}{f})$",
+    "$(1+\\frac{f}{2})$",
+    "$(1+\\frac{1}{f})$"
+   ],
+   "correct_option": "$(1+\\frac{2}{f})$",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "When a gas filled in a closed vessel is heated by \n$1^{\\circ}C$, its pressure increase by 0.4%. The initial \ntemperature of the gas is __________ K.",
+   "options": [],
+   "correct_option": "250",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "A flask contains argon and oxygen in the ratio of \n3:2 in mass and the mixture is kept at $27^{\\circ}C$. The \nratio of their average kinetic energy per molecule \nrespectively will be :",
+   "options": [
+    "3:2",
+    "9:4",
+    "2:3",
+    "1:1"
+   ],
+   "correct_option": "1:1",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "A mixture of hydrogen and oxygen has volume \n2000 $cm^{3}$, temperature 300 K, pressure 100 kPa \nand mass 0.76 g The ratio of number of moles of \nhydrogen to number of moles of oxygen in the \nmixture will be :",
+   "options": [
+    "$\\frac{1}{3}$",
+    "$\\frac{3}{1}$",
+    "$\\frac{1}{16}$",
+    "$\\frac{16}{1}$"
+   ],
+   "correct_option": "$\\frac{3}{1}$",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "The following table: \nAccording to kinetic theory of gases,",
+   "options": [
+    "A and C only",
+    "B and C only",
+    "A and B only",
+    "C and D only"
+   ],
+   "correct_option": "B and C only",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "Given below are two statement: \nStatement I: What amount of an ideal gas undergoes \nadiabatic change from state $(P_{1},V_{1},T_{1})$ to state \n$(P_{2},V_{2},T_{2})$, the work done is $W=\\frac{1R(T_{2}-T_{1})}{1-\\gamma},$ where \n$\\gamma=\\frac{C_{P}}{C_{V}}$ and R = universal gas constant, \nStatement II: In the above case. when work is done \non the gas. the temperature of the gas would rise. \nChoose the correct answer from the options given \nbelow:",
+   "options": [
+    "Both statement-I and statement-II are true.",
+    "Both statement-I and statement-II are false.",
+    "Statement-I is true but statement-II is false.",
+    "Statement-I is false but statement-II is true."
+   ],
+   "correct_option": "Both statement-I and statement-II are true.",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "What will be the effect on the root mean square \nvelocity of oxygen molecules if the temperature is \ndoubled and oxygen molecule dissociates into \natomic oxygen?",
+   "options": [
+    "The velocity of atomic oxygen remains same",
+    "The velocity of atomic oxygen doubles",
+    "The velocity of atomic oxygen becomes half",
+    "The velocity of atomic oxygen becomes four \ntimes"
+   ],
+   "correct_option": "The velocity of atomic oxygen doubles",
+   "topic": "Kinetic Theory of Gases"
+  },
+  {
+   "question": "A vessel contains 16g of hydrogen and 128 g of \noxygen at standard temperature and pressure. The \nvolume of the vessel in $cm^{3}$ is:",
+   "options": [
+    "$72\\times10^{5}$",
+    "$32\\times10^{5}$",
+    "$27\\times10^{4}$",
+    "$54\\times10^{4}$"
+   ],
+   "correct_option": "$27\\times10^{4}$",
+   "topic": "Kinetic Theory of Gases"
+  }
+    
+  ]
+}
