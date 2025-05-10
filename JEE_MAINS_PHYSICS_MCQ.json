@@ -2,7 +2,6 @@
   "exam": "jee_mains",
   "subject": "physics",
   "questions": [
-
     {
       "topic": "Alternating Current",
       "question": "In an AC circuit, the power factor is given by:",
@@ -642,7 +641,6 @@
    ],
    "correct_option": "$27\\times10^{4}$",
    "topic": "Kinetic Theory of Gases"
-  }
-    
+  } 
   ]
 }
